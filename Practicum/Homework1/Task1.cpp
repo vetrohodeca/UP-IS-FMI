@@ -4,9 +4,10 @@ using namespace std;
 int main()
 {
 	int arr[MAXSIZE];
-   int number;
-	do{
-	cin>>number;
+    int number;
+	do
+	{
+		cin>>number;
 	}
 	while(number<1||number>100);
     int rotations;

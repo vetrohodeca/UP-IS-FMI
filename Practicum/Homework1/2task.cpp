@@ -2,24 +2,25 @@
 using namespace std;
 int main()
 {
-	int n;
-	do{
-	cin>>n;
+	int number;
+	do
+	{
+		cin>>number;
 	}
-	while(n<1||n>100);
-	for(int i=0;i<n;i++)
+	while(number<1||number>100); 
+	for(int i=0;i<number;i++)
 	{
 		cout<<"|";
 		if(i%2==0)
 		{
-			for(int i=0;i<n/2;i++)
+			for(int i=0;i<number/2;i++)
 			{
 				cout<<"# ";
 			}
 		}
 		else 
 		{
-			for(int i=0;i<n/2;i++)
+			for(int i=0;i<number/2;i++)
 			{
 				cout<<" #";
 			}
