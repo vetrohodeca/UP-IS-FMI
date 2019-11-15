@@ -1,0 +1,22 @@
+C:\Users\Alex\source\repos\Intersection\Intersection\bin\Debug\netcoreapp3.0\Intersection.exe
+C:\Users\Alex\source\repos\Intersection\Intersection\bin\Debug\netcoreapp3.0\Intersection.deps.json
+C:\Users\Alex\source\repos\Intersection\Intersection\bin\Debug\netcoreapp3.0\Intersection.runtimeconfig.json
+C:\Users\Alex\source\repos\Intersection\Intersection\bin\Debug\netcoreapp3.0\Intersection.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Intersection\Intersection\bin\Debug\netcoreapp3.0\Intersection.dll
+C:\Users\Alex\source\repos\Intersection\Intersection\bin\Debug\netcoreapp3.0\Intersection.pdb
+C:\Users\Alex\source\repos\Intersection\Intersection\obj\Debug\netcoreapp3.0\Intersection.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Intersection\Intersection\obj\Debug\netcoreapp3.0\Intersection.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Intersection\Intersection\obj\Debug\netcoreapp3.0\Intersection.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Intersection\Intersection\obj\Debug\netcoreapp3.0\Intersection.dll
+C:\Users\Alex\source\repos\Intersection\Intersection\obj\Debug\netcoreapp3.0\Intersection.pdb
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\bin\Debug\netcoreapp3.0\Intersection.exe
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\bin\Debug\netcoreapp3.0\Intersection.deps.json
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\bin\Debug\netcoreapp3.0\Intersection.runtimeconfig.json
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\bin\Debug\netcoreapp3.0\Intersection.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\bin\Debug\netcoreapp3.0\Intersection.dll
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\bin\Debug\netcoreapp3.0\Intersection.pdb
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\obj\Debug\netcoreapp3.0\Intersection.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\obj\Debug\netcoreapp3.0\Intersection.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\obj\Debug\netcoreapp3.0\Intersection.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\obj\Debug\netcoreapp3.0\Intersection.dll
+C:\Users\Alex\source\repos\Intersection not 100%\Intersection\obj\Debug\netcoreapp3.0\Intersection.pdb

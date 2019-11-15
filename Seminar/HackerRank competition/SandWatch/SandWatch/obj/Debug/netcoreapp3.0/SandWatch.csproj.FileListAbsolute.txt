@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\SandWatch\SandWatch\bin\Debug\netcoreapp3.0\SandWatch.exe
+C:\Users\Alex\source\repos\SandWatch\SandWatch\bin\Debug\netcoreapp3.0\SandWatch.deps.json
+C:\Users\Alex\source\repos\SandWatch\SandWatch\bin\Debug\netcoreapp3.0\SandWatch.runtimeconfig.json
+C:\Users\Alex\source\repos\SandWatch\SandWatch\bin\Debug\netcoreapp3.0\SandWatch.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\SandWatch\SandWatch\bin\Debug\netcoreapp3.0\SandWatch.dll
+C:\Users\Alex\source\repos\SandWatch\SandWatch\bin\Debug\netcoreapp3.0\SandWatch.pdb
+C:\Users\Alex\source\repos\SandWatch\SandWatch\obj\Debug\netcoreapp3.0\SandWatch.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\SandWatch\SandWatch\obj\Debug\netcoreapp3.0\SandWatch.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\SandWatch\SandWatch\obj\Debug\netcoreapp3.0\SandWatch.AssemblyInfo.cs
+C:\Users\Alex\source\repos\SandWatch\SandWatch\obj\Debug\netcoreapp3.0\SandWatch.dll
+C:\Users\Alex\source\repos\SandWatch\SandWatch\obj\Debug\netcoreapp3.0\SandWatch.pdb
