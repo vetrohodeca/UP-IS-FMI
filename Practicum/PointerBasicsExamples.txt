@@ -1,0 +1,4 @@
+int sum=5;
+int *ptr=&sum; deklarirane na pointer
+int& alias= // zaduljitelna deklaraciq vednaga pri referenciqta
+masiv- constanten ptr																	
