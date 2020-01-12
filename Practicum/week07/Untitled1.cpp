@@ -49,7 +49,7 @@ int* find(int* arr, int size, int number)
 	{
 		if(arr[i]==number)
 		{
-			return *(arr+i*sizeof(int));
+			return *(arr+i);
 		}
 	}
 	return nullptr;
