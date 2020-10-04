@@ -4,7 +4,7 @@ int main()
 {
 	int a,b;
 	cin>>a>>b;
-	cout<<!(a^b)<<endl;
+	cout<<boolalpha<<!(a^b)<<endl;
 	system("pause");
 	return 0;
 }
