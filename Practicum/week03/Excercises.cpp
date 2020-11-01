@@ -59,18 +59,7 @@ int main()
 		}
 	}*/
 	//5 task
-/*	int counter=0;
-	int sum=0;
-	int average=0;
-	int number=0;
-
-	while(number>=0)
-	{
-	
-		cin>>number;
-			if(number<0)
-		{
-			break;
+/* 
 		}
 		counter++;
 		sum+=number;
