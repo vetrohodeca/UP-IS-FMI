@@ -21,7 +21,7 @@ void reverseArray(int* arr, int size)
 		swap(arr[i],arr[size-1-i]);
 	}
 }
-void transposed(int matrixOne[][100], int rowsOne, int cowsOne, int matrixTwo[][100], int rowsTwo, int colsTwo)
+void transposed(int **matrixOne, int rowsOne, int cowsOne, int** matrixTwo, int rowsTwo, int colsTwo)
 {
 	for(int i=0;i<rowsOne;i++)
 	{
@@ -97,5 +97,22 @@ int main()
 	int array[] = { 203, 189, 41, 900, 666};
     sortBySumOfDigits(array, 5);
     print(array, 5); // 41 203 900 189 666
+    int* matrix1 [10] ;
+    int* matrix2 [10] ;
+    for(int i=0;i<3;i++)
+    {
+    	for(int j=0;j<3;j++)
+    	{
+    		cin>>matrix1[i][j];
+		}
+	}
+	transposed(matrix1,3,3,matrix2,3,3);
+	 for(int i=0;i<3;i++)
+    {
+    	for(int j=0;j<3;j++)
+    	{
+    		cout<<matrix2[i][j];
+		}
+	}
 	return 0;
 }
