@@ -65,57 +65,56 @@ void reverseString(char*str)
         swap(str[i],str[len-1-i]);
     }
 }
-char getFirstUniqueChar(char* str)
-{
-    bool isUnique=true;
-    int len= strLength(str);
-    for(int i=1;i<len;i++)
-    {
-        if(str[i]==str[0])
-        {
-            isUnique=false;
-        }
-        if(isUnique==true)
-        {
-            return str[0];
-        }
-    }
-    isUnique=true;
-    isUnique=true;
-    for(int i=1;i<len-1;i++)
-    {
-        for(int j=i+1;j<len;j++)
-        {
-            if(str[i]==str[j])
-            {
-                isUnique=false;
-            }
-        }
-        for(int k=i-1;k>=0;k--)
-        {
-            if(str[i]==str[k])
-            {
-                isUnique=false;
-            }
-        }
-        if(isUnique==true)
-        {
-            return str[i];
-        }
-        isUnique=true;
-    }
-    for(int i=0;i<len-1;i++)
-    {
-        if(str[i]==str[len-1])
-        {
-            isUnique=false;
-        }
-        if(isUnique==true)
-        {
-            return str[len-1];
-        }
-    }
-}
+	char getFirstUniqueChar(char* str)
+	{
+	    bool isUnique=true;
+	    int len= strLength(str);
+	    for(int i=1;i<len;i++)
+	    {
+	        if(str[i]==str[0])
+	        {
+	            isUnique=false;
+	        }
+	        if(isUnique==true)
+	        {
+	            return str[0];
+	        }
+	    }
+	    isUnique=true;
+	    for(int i=1;i<len-1;i++)
+	    {
+	        for(int j=i+1;j<len;j++)
+	        {
+	            if(str[i]==str[j])
+	            {
+	                isUnique=false;
+	            }
+	        }
+	        for(int k=i-1;k>=0;k--)
+	        {
+	            if(str[i]==str[k])
+	            {
+	                isUnique=false;
+	            }
+	        }
+	        if(isUnique==true)
+	        {
+	            return str[i];
+	        }
+	        isUnique=true;
+	    }
+	    for(int i=0;i<len-1;i++)
+	    {
+	        if(str[i]==str[len-1])
+	        {
+	            isUnique=false;
+	        }
+	        if(isUnique==true)
+	        {
+	            return str[len-1];
+	        }
+	    }
+	}
 char* concat(char* first, char*second, char* result)
 {
     int len1=strLength(first);
@@ -136,30 +135,7 @@ char* concat(char* first, char*second, char* result)
 }
 int main()
 {
-    char arr[]="abcdsc";
-    int len=strLength(arr);
-    replaceSymbol(arr,'c','k');
-    cout<<arr<<endl;
-    cout<<len<<endl;
-    removeSymbol(arr,'b');
-    cout<<arr<<endl;
-    cout<<len<<endl;
-    char palindrome[] = "abababa";
-char random[] = "abc";
-reverseString(random);
-cout<<endl;
-cout<<random<<endl;
-cout<<isPalindrome(palindrome); // true
-cout<<isPalindrome( result[j]=first[i];
-        j++;random); // false
-cout<<endl;
-char array[] = "aabbccdde";
-cout<<getFirstUniqueChar(array)<<endl;
+	cout<<strLength("Gosho42")<<endl;
 
-char first[] = "abc";
-char second[] = "def";
-char result[strLength(first) + strLength(second)];
-concat(first, second, result);// abcdef
-cout<<result;
     return 0;
 }

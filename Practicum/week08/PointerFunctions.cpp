@@ -49,7 +49,7 @@ bool remove(int* arr,int size, int number)
 	{
 		return false;
 	}
-	return true;
+	return true ;
 }
 int* find(int* arr, int size, int number)
 {
@@ -95,9 +95,9 @@ void sortBySumOfDigits(int* arr, int size)
 int main()
 {
 	int array[] = { 203, 189, 41, 900, 666};
-    sortBySumOfDigits(array, 5);
-    print(array, 5); // 41 203 900 189 666
-    int* matrix1 [10] ;
+   // sortBySumOfDigits(array, 5);
+    //print(array, 5); // 41 203 900 189 666
+    int matrix1 [10] ;
     int* matrix2 [10] ;
     for(int i=0;i<3;i++)
     {
